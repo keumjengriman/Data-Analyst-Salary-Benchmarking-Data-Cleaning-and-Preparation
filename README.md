@@ -47,5 +47,5 @@ AI tools assisted with selected dictionary structures and loop implementations. 
 
 ## ⚠️ Disclaimer
 
-DataBridge and the business scenario are fictional. The project uses Glassdoor job-posting data for educational and portfolio purposes. The dataset's source and limitations should be considered when interpreting any future findings.
+DataBridge and the business scenario are fictional. The project uses Glassdoor job-posting data for portfolio purposes. The dataset's source and limitations should be considered when interpreting any future findings.
 
